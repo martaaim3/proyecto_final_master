@@ -13,6 +13,13 @@ Este proyecto tiene como objetivo analizar y relacionar datos de ventas online c
 - Realizar un análisis descriptivo y estadístico.
 - Diseñar un dashboard interactivo en **Power BI** que permita explorar las relaciones entre indicadores y ventas.
 
+## Datos originales
+
+Por limitaciones de GitHub (archivos >100MB), el dataset `Indicators.csv` necesario para reproducir el proyecto se encuentra disponible en una Release.
+
+➡ Puedes descargarlo desde aquí:
+
+[** Descargar Indicators.csv desde la Release**](https://github.com/martaaim3/proyecto_final_master/releases/tag/v1.0-datos)
 
 ## Estructura del proyecto
  proyecto_final_master
